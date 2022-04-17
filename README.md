@@ -1,5 +1,5 @@
 <h1> Hi there! 👋 </h1>
-<h3> I'm currently studying front-end development at Medieinstitutet! </h3>
+<h3> I'm currently studying front-end development at Medieinstitutet. </h3>
 - 🌱 Currently focused on learning React
 <br>
 - 💻 Knowledge in: HTML, CSS, JavaScript, MySQL, Node, Express.js
