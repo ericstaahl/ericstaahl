@@ -2,7 +2,7 @@
 <h3> I'm currently studying front-end development at Medieinstitutet. </h3>
 - 🌱 Currently focused on learning React
 <br>
-- 💻 Knowledge in: HTML, CSS, JavaScript, MySQL, Node, Express.js
+- 💻 Knowledge in: HTML, CSS, JavaScript, React, MySQL, Node, Express.js
 <br>
 - 🔭 I’m currently working on: React projects
 <br>
