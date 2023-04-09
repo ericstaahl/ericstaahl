@@ -1,12 +1,11 @@
 <h1> Hi there! 👋 </h1>
 <h3> I'm currently studying front-end development at Medieinstitutet. </h3>
-- 🌱 Currently focused on learning React
 <br>
-- 💻 Knowledge in: HTML, CSS, JavaScript, React, MySQL, Node, Express.js
+- 💻 Knowledge in: TypeScript, React, SQL, Node and AWS
 <br>
-- 🔭 I’m currently working on: React projects
+- 🔭 I’m currently working on: React projects primarily
 <br>
-- ⚡ Also interested in learning back-end development
+- ⚡ Also interested in continuing learning back-end development
 
 <!--
 **ericstaahl/ericstaahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
