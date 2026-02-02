@@ -1,8 +1,7 @@
 <h1> Hi there! 👋 </h1>
-<h3> I'm currently working full-time as a developer (mostly focused on TypeScript, React, Node and PostgreSQL). </h3>
-- I recently graduated as a front-end developer from Medieinstitutet. </h3>
+<h3> I'm currently working full-time as a developer (mostly focused on TypeScript, React, C#, .NET and SQL at the moment). </h3>
 <br>
-- 💻 Knowledge in: TypeScript, React, SQL, Git, Node and AWS
+- 💻 Knowledge in: TypeScript, React, SQL, Git, Node, C#, .NET and AWS
 <!--
 **ericstaahl/ericstaahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
